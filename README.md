@@ -36,5 +36,5 @@ Falls du die App lokal starten möchtest:
 
 1. **Projekt klonen**
    ```sh
-   git clone https://github.com/DEIN_GITHUB_USERNAME/WeatherApp.git
+   git clone https://github.com/Berch10/WeatherApp.git
    cd WeatherApp
